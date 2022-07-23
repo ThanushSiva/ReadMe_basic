@@ -1,4 +1,4 @@
-
+# README cheatsheet
 
 # HEADING 1
 
@@ -13,7 +13,6 @@
 ###### HEADING 6
 
 ***
----
 
 **BOLD**
 **BOLD**
@@ -26,7 +25,8 @@ _ITALIC_
 
 Paragraph
 
-LIST
+---
+### LIST
 
 1.  ONE
 2.  TWO
@@ -39,42 +39,65 @@ LIST
 - THREE
   - ONE
   - TWO
-
+---
+### LINKS
 [LINKS](https://thanushsiva.github.io/assignment-js2022bootcamp "assignments")
 
+---
+### CODEBLOCKS
 ```css
 html{
     color:red;
 }
 ```
-
-Hello `let` is a keyword
-
-![thanu](./project.png)
-
-> backquote
-
-
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-[heading1](#heading-1)
-
-H<sub>2</sub>0
-
-I need to highlight these <mark>very important words</mark>.
-
-X<sup>2</sup>
-
-<kbd>thanush</kbd>
-
+---
+### PRE CODEBLOCKS
 <pre>
 html{
     color:red;
 }
 </pre>
+---
+### KEYWORD
+Hello `let` is a keyword
 
+---
+### IMAGES
+![thanu](./project.png)
+---
+### BACKQUOTES
+> backquote
+
+> backquote
+
+> backquote
+---
+### TABLE
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+---
+### HEADING LINK
+[heading1](#heading-1)
+
+---
+### SUB SUP SCRIPT
+H<sub>2</sub>0
+
+X<sup>2</sup>
+
+---
+### HIGHLIGHT
+I need to highlight these <mark>very important words</mark>.
+
+---
+### KEYBOARD
+<kbd>thanush</kbd>
+
+---
+### CHECKLIST
 - [x] done
 - [ ]  not done
+---
