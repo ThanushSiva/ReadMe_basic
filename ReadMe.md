@@ -101,3 +101,6 @@ I need to highlight these <mark>very important words</mark>.
 - [x] done
 - [ ]  not done
 ---
+
+[ReadMe generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) | 
+[ReadMe utilities](https://shields.io/)
