@@ -77,4 +77,4 @@ html{
 </pre>
 
 - [x] done
-- []  not done
+- [ ]  not done
